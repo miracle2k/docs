@@ -67,6 +67,7 @@ description: >-
 * [pixelmatch-asc](https://github.com/jamesmilneruk/pixelmatch-asc) Pixel level image comparison library
 * [as-bind](https://github.com/torch2424/as-bind) Isomorphic library to handle passing high-level data structures between AssemblyScript and JavaScript 🤝🚀. Built on top of the AssemblyScript loader.
 * [wasmer-as](https://github.com/onsails/wasmer-as) Helpers for dealing with assemblyscript memory inside wasmer-runtime.
+* [wasmbind](https://github.com/miracle2k/wasmbind) Work with AssemblyScript memory and classes from Python.
 
 ## Embedded
 
